@@ -1,4 +1,3 @@
-# EDA-R-CODE
 
 
 
@@ -71,8 +70,5 @@ shiny::runApp("path/to/app.R")
 
 ✅ **Professional, interactive, and easy-to-use dashboard for fast EDA.**
 
----
 
-If you want, I can **also create a GitHub-ready version with badges and emojis** so it looks super modern and appealing on your repo front page. It will make your repo **look like a professional project** instantly.
 
-Do you want me to do that next?
