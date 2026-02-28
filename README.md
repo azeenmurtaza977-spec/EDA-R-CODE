@@ -2,6 +2,9 @@
 
 
 # 🟡 Advanced EDA Dashboard (Shiny)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24c1aca1-16f0-4937-ab7c-fdbaa1b3d3ed" />
+
+
 
 **Interactive R Shiny dashboard for Comprehensive Exploratory Data Analysis (EDA).** Quickly analyze your dataset without writing complex code.
 
